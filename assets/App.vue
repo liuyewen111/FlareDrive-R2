@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/bg-light.webp"
+    backgroundImageUrl: "https://bing.ee123.net/img/4k"
   }),
 
   computed: {
