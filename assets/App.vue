@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/0ea3544d4c194fecb38916383dd5d7ae.webp"
+    backgroundImageUrl: "https://ali.image.hellorf.com/images/dae4492988cdb28f393dd8764b0c7be0.jpeg?x-image-process=image/format,webp"
   }),
 
   computed: {
